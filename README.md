@@ -1,7 +1,7 @@
 
 ## Getting Started
 
-First, run the development server:
+change progress to view like below:
 
 ```bash
  <Analiticbar data={{ progress: 70 }} />
